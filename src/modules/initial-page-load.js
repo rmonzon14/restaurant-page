@@ -19,6 +19,7 @@ const navContent = () => {
 
 const headerContent = () => {
   const section = document.createElement("section");
+  section.className = "load-page-section";
 
   const h1 = document.createElement("h1");
   h1.textContent = "Vin's Resto";
