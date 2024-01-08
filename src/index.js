@@ -1,3 +1,3 @@
-// import { test } from "./modules/initial.page-load";
+import { loadPage } from "./modules/initial-page-load";
 
-// test();
+loadPage();
