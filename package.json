@@ -1,0 +1,19 @@
+{
+  "name": "restaurant-page",
+  "version": "1.0.0",
+  "description": "The purpose of this project is to help me practice and understand DOM manipulation, webpack, and npm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmonzon14/restaurant-page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmonzon14/restaurant-page/issues"
+  },
+  "homepage": "https://github.com/rmonzon14/restaurant-page#readme"
+}
