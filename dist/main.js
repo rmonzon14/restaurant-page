@@ -1,1 +1,1 @@
-alert("It works!");
+(()=>{"use strict";alert("It works!!")})();
