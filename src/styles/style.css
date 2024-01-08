@@ -35,3 +35,7 @@ nav ul {
 .load-page-section h1 {
   font-size: 4rem;
 }
+
+.onClicked {
+  color: red;
+}
